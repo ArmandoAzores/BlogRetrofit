@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_baseline_home_24"
+            android:title="Home" />
+        <item
+            android:id="@+id/einloggen"
+            android:icon="@drawable/ic_baseline_login_24"
+            android:title="Einloggen" />
+        <item
+            android:id="@+id/meine_termine"
+            android:icon="@drawable/ic_baseline_assignment_24"
+            android:title="Meine Termine" />
+        <item
+            android:id="@+id/meine_konto"
+            android:icon="@drawable/ic_baseline_account_box_24"
+            android:title="Meine Konto" />
+        <item
+            android:id="@+id/meine_werkstatte"
+            android:icon="@drawable/ic_car_repair"
+            android:title="Meine Werkstätte" />
+        <item
+            android:id="@+id/meine_fahigkeiten"
+            android:icon="@drawable/ic_baseline_handyman_24"
+            android:title="Meine fähigkeiten" />
+        <item
+            android:id="@+id/meine_anfragen"
+            android:icon="@drawable/ic_baseline_add_to_home_screen_24"
+            android:title="Meine Anfragen" />
+        <item
+            android:id="@+id/meine_finanzen"
+            android:icon="@drawable/ic_baseline_attach_money_24"
+            android:title="Meine Finanzen" />
+        <item
+            android:id="@+id/ausloggen"
+            android:icon="@drawable/ic_baseline_exit_to_app_24"
+            android:title="Aussloggen" />
+    </group>
+
+</menu>
